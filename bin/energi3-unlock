@@ -26,12 +26,18 @@ do
 
 done
 
+echo ""
+echo "--------------- ⏲  Unlocking wallet for staking ... ---------------"
+echo ""
+
 # Define unlock command
 UNLOCK_CMD="personal.unlockAccount('${ENERGI_WALLET_ADDR}', null, 0, true)"
 
 # Unlock the account (asks user for password)
 energi3 attach --exec "${UNLOCK_CMD}"
 
+echo ""
+echo "--------------- 💯 DONE: Wallet unlocked for staking ... ---------------"
 echo ""
 
 exit

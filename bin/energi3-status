@@ -26,6 +26,9 @@ do
 
 done
 
+echo ""
+echo "--------------- ⏲  Obtaining Status ... ---------------"
+echo ""
 
 # Define unlock command
 UNLOCK_CMD="miner.stakingStatus()"
@@ -33,6 +36,8 @@ UNLOCK_CMD="miner.stakingStatus()"
 # Unlock the account (asks user for password)
 energi3 attach --exec "${UNLOCK_CMD}"
 
+echo ""
+echo "--------------- 💯 DONE ---------------"
 echo ""
 
 exit 0

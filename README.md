@@ -1,4 +1,4 @@
-# energi-scripts - Energi Masternode Scripts (Unofficial)
+# Unofficial Energi Masternode Scripts (energi-scripts)
 
 These scripts are to help with starting, maintaining, and checking on the status of your NRG / Energi masternode.
 

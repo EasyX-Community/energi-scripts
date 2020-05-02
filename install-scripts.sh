@@ -54,7 +54,7 @@ export PATH=${PATH}:${PWD}/
 echo "" >> ~/.bashrc
 echo "" >> ~/.bashrc
 echo "# LINE BELOW PUT HERE BY ENERGI HELPER SCRIPTS (UNOFFICIAL)" >> ~/.bashrc
-echo "PATH=\${PATH}:${PWD}" >> ~/.bashrc
+echo "PATH=\${PATH}:${PWD}/bin/" >> ~/.bashrc
 echo "ENERGI_WALLET_ADDR=${WALLET_ADDR}" >> ~/.bashrc
 echo "" >> ~/.bashrc
 echo "" >> ~/.bashrc

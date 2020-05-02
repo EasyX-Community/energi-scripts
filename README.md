@@ -9,3 +9,5 @@ These scripts are to help with starting, maintaining, and checking on the status
 I will add more scripts later if I can make more useful ones.
 
 ~ LeshaCat
+http://easyx.cc/
+http://pool.easyx.cc/

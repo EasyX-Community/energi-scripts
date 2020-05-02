@@ -37,7 +37,7 @@ UNLOCK_CMD="personal.unlockAccount('${ENERGI_WALLET_ADDR}', null, 0, true)"
 energi3 attach --exec "${UNLOCK_CMD}"
 
 echo ""
-echo "--------------- 💯 DONE: Wallet unlocked for staking ... ---------------"
+echo "--------------- 💯 DONE: Wallet unlocked for staking ---------------"
 echo ""
 
 exit

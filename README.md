@@ -1,4 +1,4 @@
-# energi-scripts - NRG / Energi Masternode Scripts (Unofficial)
+# energi-scripts - Energi Masternode Scripts (Unofficial)
 
 **- install-scripts -** Install and configure the scripts, asks for wallet<br />
 **- energi3-unlock -** Unlocks wallet for staking, asks for password<br />

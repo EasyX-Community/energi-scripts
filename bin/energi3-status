@@ -27,7 +27,7 @@ do
 done
 
 echo ""
-echo "--------------- ⏲  Obtaining Status ... ---------------"
+echo "--------------- ⏲  Obtaining Status ---------------"
 echo ""
 
 # Define unlock command

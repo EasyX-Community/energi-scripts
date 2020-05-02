@@ -27,7 +27,7 @@ do
 done
 
 echo ""
-echo "--------------- ⏲  Unlocking wallet for staking ... ---------------"
+echo "--------------- ⏲  Unlocking wallet for staking ---------------"
 echo ""
 
 # Define unlock command

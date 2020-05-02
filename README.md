@@ -7,4 +7,4 @@ NRG / Energi Masternode Scripts (Unofficial)
 
 These scripts are to help with starting, maintaining, and checking on the status of your NRG / Energi masternode.
 
-**I will add more scripts later if I can find more useful ones.**
+**I will add more scripts later if I can make more useful ones.**
